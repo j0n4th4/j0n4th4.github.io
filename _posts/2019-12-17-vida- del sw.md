@@ -1,6 +1,6 @@
 ---
 title: El proceso de SW
-author: Jonathan Stalyn Castro Velez
+author: Josue Baque
 layout: post
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Problemas en el desarrollo de software
-author: Jonathan Stalyn Castro Velez
+author: Josue Baque
 order: 3
 layout: post
 ---

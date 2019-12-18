@@ -1,6 +1,6 @@
 ---
 title: Proceso de Ingeniería de software
-author: Jonathan Stalyn Castro Velez
+author: Josue Baque
 order: 2
 layout: post
 ---
