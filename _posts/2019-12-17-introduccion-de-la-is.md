@@ -1,6 +1,6 @@
 ---
 title: Fundamentos a la Ingeniería de Software (IS)
-author: Josue baque
+author: Jonathan Stalyn Castro Velez
 order: 1
 layout: post
 ---
