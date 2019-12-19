@@ -1,12 +1,12 @@
 ---
 title: Blog
-subtitle: Classes
 layout: "page"
 icon: fa-pencil-alt
 order: 3
 ---
 
-# Impresión de datos en C++. "Hola mundo".
+# ***Impresión de datos en C++. "Hola mundo".***
+
 
 Uno de los primeros pasos con los que se encuentra una persona que quiere aprender un lenguaje de programación es la impresión en pantalla de texto y de variables (además de saber definir éstas). Lo que entendemos todos como el ya clásico "Hola mundo".
 
@@ -32,7 +32,7 @@ La librería que nos dará la posibilidad de imprimir texto y variables en C++ s
 13. }
 
 
-# Máximo común divisor y mínimo común múltiplo. Algoritmo de Euclides en C.
+# ***Máximo común divisor y mínimo común múltiplo. Algoritmo de Euclides en C.***
 
 Máximo común divisor: es el mayor número entero que divide a dos o más números enteros dejando una división exacta (su residuo o resto es 0).
 
