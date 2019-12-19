@@ -4,7 +4,7 @@ author: Jonathan Stalyn Castro Velez
 layout: post
 ---
 
-Conjunto de acBvidades necesarias para transformar las ideasiniciales del usuario, que desea automaBzar un determinadotrabajo, en software.
+Conjunto de actividades necesarias para transformar las ideasiniciales del usuario, que desea automaBzar un determinadotrabajo, en software.
 
 Conjunto ordenado de acBvidades; una serie de pasos queinvolucran tareas, restricciones y recursos que producen unadeterminada salida esperada.
 
